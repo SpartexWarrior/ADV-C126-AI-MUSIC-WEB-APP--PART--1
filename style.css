@@ -1,0 +1,27 @@
+.heading 
+{
+    font-size: 23px;
+    width:100%;
+    margin:0;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+body
+{
+    background-size: cover;
+}
+.div_Song
+{
+    float:left;
+}
+
+#Song
+{
+    font-size: 23px;
+    margin: 15px;
+}
